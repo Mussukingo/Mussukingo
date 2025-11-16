@@ -11,7 +11,7 @@ Olá o meu nome é Marcelo Carvalho sou um aspirante a criador e desenvolvedor d
 ### 🤖 Linguagens a aprender
 <img     align="left"     alt="HTML"    title="HTML"     width="30px"     style="padding-right: 10px;"     src="https://www.svgrepo.com/show/373617/gamemaker.svg" /><img     align="left"     alt="HTML"    title="HTML"     width="30px"     style="padding-right: 10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><br/><br/>
 
-### Estrelas
+###📈Estatistics
 
 ![GitHub stars](https://github-readme-stats.vercel.app/api?username=Mussukingo&show_icons=true&theme=default)
 
