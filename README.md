@@ -13,7 +13,8 @@ Olá o meu nome é Marcelo Carvalho sou um aspirante a criador e desenvolvedor d
 
 ### Estrelas
 
-![Estrelas no github](https://img.shields.io/github/stars/Mussukingo/REPO?style=social)
+![Estrelas no GitHub](https://img.shields.io/github/stars/OWNER?affiliations=Mussukingo&style=social)
+
 
 
 
