@@ -42,6 +42,16 @@ Olá o meu nome é Marcelo Carvalho sou um aspirante a criador e desenvolvedor d
 ---
 
 
+  <image src="https://github.com/Mussukingo/Mussukingo/blob/main/images/images-removebg-preview.png"
+         x="0" y="10" width="80" height="80">
+    <animate 
+      attributeName="x"
+      from="0"
+      to="320"
+      dur="3s"
+      repeatCount="indefinite" />
+  </image>
+
 
 
 
