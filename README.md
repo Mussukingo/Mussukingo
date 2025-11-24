@@ -23,30 +23,18 @@ Olá o meu nome é Marcelo Carvalho sou um aspirante a criador e desenvolvedor d
 <img align= "left" alt="JavaScript" title="JavaScript" width="40px"     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align= "left" alt="Java" title="Java" width="40px"  style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
  <img align= "left" alt="Java" title="Java" width="40px"  style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-          
-
+ 
 </br></br>
+
 ---
 
 ### 📈Estatisticas
 
 ![GitHub stars](https://github-readme-stats.vercel.app/api?username=Mussukingo&show_icons=true&theme=default)
 
+</br></br>
+---
+### 💾Projetos
 
+<a href="https://github.com/Mussukingo/Gerador-de-frases-motivacionais/blob/master"> Gerador de frases </a>
 
-
-
-<!--
-**Mussukingo/Mussukingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
