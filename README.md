@@ -32,25 +32,15 @@ Olá o meu nome é Marcelo Carvalho sou um aspirante a criador e desenvolvedor d
 
 ![GitHub stars](https://github-readme-stats.vercel.app/api?username=Mussukingo&show_icons=true&theme=default)
 
-</br></br>
+<img src="https://komarev.com/ghpvc/?username=mussukingo&label=Profile%20views&color=0e75b6&style=flat" alt="mussukingo" /> 
+
+</br>
 ---
 ### 💾Projetos
 
 <a href="https://github.com/Mussukingo/Gerador-de-frases-motivacionais/blob/master"> Gerador de frases </a>
 
 
----
-
-
-  <image src="https://github.com/Mussukingo/Mussukingo/blob/main/images/images-removebg-preview.png"
-         x="0" y="10" width="80" height="80">
-    <animate 
-      attributeName="x"
-      from="0"
-      to="320"
-      dur="3s"
-      repeatCount="indefinite" />
-  </image>
 
 
 
