@@ -30,8 +30,6 @@ Olá o meu nome é Marcelo Carvalho sou um aspirante a criador e desenvolvedor d
 
 ### 📈Estatisticas
 
-![GitHub stars](https://github-readme-stats.vercel.app/api?username=Mussukingo&show_icons=true&theme=default)
-
 <img src="https://komarev.com/ghpvc/?username=mussukingo&label=Profile%20views&color=0e75b6&style=flat" alt="mussukingo" /> 
 
 </br></br>
